@@ -1,7 +1,7 @@
 import app from "./src/app.js";
-const port = 3000;
+const PORT = 3000;
 
-app.listen(port, () => {
-  console.log(`Meu Hello World funcionou na porta http://localhost:${port}`);
+app.listen(PORT, () => {
+  console.log(`Meu Hello World funcionou na PORTa http://localhost:${PORT}`);
 });
 
