@@ -1,5 +1,5 @@
 //MOCK
-export const SERIEA = [
+export const SERIE_A = [
   {
     id: 1,
     time: "Santos",
