@@ -19,3 +19,5 @@ export const SERIEA = [
     foiRebaixado: "Sim",
   },
 ];
+
+export let rodada01 = [];
